@@ -1,0 +1,7 @@
+D:/MusicFree-Refactor/backend/build/CMakeFiles/musicfree_core.dir
+D:/MusicFree-Refactor/backend/build/CMakeFiles/musicfree_network.dir
+D:/MusicFree-Refactor/backend/build/CMakeFiles/musicfree_server.dir
+D:/MusicFree-Refactor/backend/build/CMakeFiles/RUN_TESTS.dir
+D:/MusicFree-Refactor/backend/build/CMakeFiles/INSTALL.dir
+D:/MusicFree-Refactor/backend/build/CMakeFiles/ALL_BUILD.dir
+D:/MusicFree-Refactor/backend/build/CMakeFiles/ZERO_CHECK.dir
